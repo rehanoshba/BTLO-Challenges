@@ -26,3 +26,4 @@ Suspicious USB Stick
 Log Analysis - Privilege Escalation
 Network Analysis - Ransomware
 Browser Forensics - Cryptominer
+Secure shell
